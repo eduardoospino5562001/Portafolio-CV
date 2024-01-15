@@ -1,5 +1,5 @@
 ## Propósito del Proyecto
-Este proyecto tiene como objetivo presentar información relevante sobre mí, incluyendo mis habilidades, educación, experiencia laboral.
+Este proyecto tiene como objetivo presentar información relevante sobre mí, incluyendo habilidades, educación, experiencia.
 
 ## Contenido
 
@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo presentar información relevante sobre mí, in
 - Font Awesome (para iconos)
 
 ## Capturas de Pantalla
-![Captura de pantalla del inicio](![image](https://github.com/eduardoospino5562001/Portafolio-CV/assets/118482086/464d4137-6f7c-4d53-ba2a-270b54a0c490)
+![Captura de pantalla del inicio]![image](https://github.com/eduardoospino5562001/Portafolio-CV/assets/118482086/464d4137-6f7c-4d53-ba2a-270b54a0c490)
 )
 ![Captura de pantalla de la sección de Skills]![image](https://github.com/eduardoospino5562001/Portafolio-CV/assets/118482086/ef110632-a8aa-4812-86c9-5bff927e2e88)
 
